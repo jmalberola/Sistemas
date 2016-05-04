@@ -14,7 +14,7 @@ public class Conectar {
 
 		Connection conexion;		
 	
-		String url = "jdbc:mysql://52.38.4.236:3306/Mundo";
+		String url = "jdbc:mysql://ip_servidor:3306/Mundo";
 		String user = "usuario";
 		String pw = "password";
 
